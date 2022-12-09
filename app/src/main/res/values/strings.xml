@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Fit Check</string>
+    <string name="desc_1">Hollister</string>
+    <string name="desc_2">User Upload</string>
+    <string name="desc_3"></string>
+    <string name="desc_4"></string>
+    <string name="desc_5"></string>
+    <string name="desc_6"></string>
+    <string name="desc_7"></string>
+    <string name="desc_8"></string>
+    <string name="desc_9"></string>
+    <string name="desc_10"></string>
+    <string name="shirt_1">Oversized Shirt Jacket</string>
+    <string name="pants_1">High-Rise Black Jean Leggings</string>
+    <string name="shoes_1">Chuck Taylor All-Star Classic</string>
+</resources>
