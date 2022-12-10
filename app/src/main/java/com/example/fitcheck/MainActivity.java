@@ -48,7 +48,7 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(AdapterView arg0, View arg1, int
                     position, long arg3) {
                 Intent i = new Intent(MainActivity.this, OutfitDetail.class);
-                i.putExtra("position", position);
+                i.putExtra("position", position+1);
                 startActivity(i);
             }
         });

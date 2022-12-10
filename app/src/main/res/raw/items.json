@@ -24,63 +24,63 @@
 		"Outfit": "2",
 		"ItemType": "Shirt",
 		"Description": "Slouchy Snowsoft Sweater",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_2_shirt",
 		"Link": "https://www.ae.com/us/en/p/women/sweaters-cardigans/sweaters/ae-slouchy-snowsoft-sweater/0348_9934_200"
 	},
 	{
 		"Outfit": "2",
 		"ItemType": "Pants",
 		"Description": "Ripped Super High-Waisted Flare Jean",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_2_pants",
 		"Link": "https://www.hollisterco.com/shop/us/p/advanced-stretch-high-rise-jean-leggings-41444320"
 	},
 	{
 		"Outfit": "2",
 		"ItemType": "Shoes",
 		"Description": "Ember Commute WaterProof",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_2_shoes",
 		"Link": "https://www.teva.com/sale/ember-commute-waterproof/194715023987.html"
 	},
 	{
 		"Outfit": "3",
 		"ItemType": "Dress",
 		"Description": "Plaid 3/4-Sleeve Shift Dress",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_3_dress",
 		"Link": "https://www.macys.com/shop/product/tommy-hilfiger-womens-plaid-3-4-sleeve-shift-dress?ID=14570603&CategoryID=39096"
 	},
 	{
 		"Outfit": "3",
 		"ItemType": "Shoes",
 		"Description": "Ezra Pointy Toe Pumps",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_3_shoes",
 		"Link": "https://ninewest.com/products/ezra-pointy-toe-pumps-in-natural-leather"
 	},
 	{
 		"Outfit": "4",
 		"ItemType": "Bra",
 		"Description": "All Day Every Day Bra",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_4_bra",
 		"Link": "https://www.fabletics.com/products/ALL-DAY-EVERY-DAY-BA2044189-0001"
 	},
 	{
 		"Outfit": "4",
 		"ItemType": "Pants",
 		"Description": "Oasis PureLuxe High-Waisted 7/8 Legging",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_4_pants",
 		"Link": "https://www.fabletics.com/products/OASIS-7-8-LG1935348-4899"
 	},
 	{
 		"Outfit": "5",
 		"ItemType": "Shirt",
 		"Description": "Legacy Washed Crop Top",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_5_shirt",
 		"Link": "https://www.gymshark.com/products/gymshark-legacy-washed-crop-top-hoya-green-aw22"
 	},
 	{
 		"Outfit": "5",
 		"ItemType": "Pants",
 		"Description": "Legacy Ruched Tight Shorts",
-		"ItemImage": "outfit_1_shirt",
+		"ItemImage": "outfit_5_pants",
 		"Link": "https://www.gymshark.com/products/gymshark-legacy-ruched-tight-shorts-hoya-green-aw22"
 	}
 	]

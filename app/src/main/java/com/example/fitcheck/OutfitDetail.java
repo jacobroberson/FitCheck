@@ -2,9 +2,12 @@ package com.example.fitcheck;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Context;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ImageView;
@@ -25,6 +28,7 @@ import java.util.List;
 public class OutfitDetail extends AppCompatActivity {
     private ListView mListView;
     private int mPosition;
+    private String url;
 
 
     /** Called when the activity is first created. */
@@ -37,6 +41,16 @@ public class OutfitDetail extends AppCompatActivity {
         new OutfitDetail.AsyncDataClass().execute();
         Intent i = getIntent();
         mPosition = i.getIntExtra("position", 0);
+
+        mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
+
+            @Override
+            public void onItemClick(AdapterView arg0, View arg1, int
+                    position, long arg3) {
+                Intent openLinksIntent = new Intent(Intent.ACTION_VIEW, Uri.parse(url));
+                startActivity(openLinksIntent);
+            }
+        });
     }
 
     private class AsyncDataClass extends AsyncTask<String, Void, String> {
@@ -105,6 +119,7 @@ public class OutfitDetail extends AppCompatActivity {
                 newItemObject = new ItemObject(itemOutfit, itemType, itemDescription, itemImage, itemLink);
                 if (itemOutfit == mPosition) {
                     jsonObject.add(newItemObject);
+                    url = itemLink;
                 }
             } catch (JSONException e) {
                 e.printStackTrace();

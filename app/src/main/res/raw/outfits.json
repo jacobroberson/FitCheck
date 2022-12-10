@@ -27,7 +27,7 @@
 			"Fall",
 			"Winter"
 		],
-		"Image": "outfit_1"
+		"Image": "outfit_3"
 	},
 	{
 		"ID": "4",
@@ -35,7 +35,7 @@
 		"Filters": [
 			"Athletic"
 		],
-		"Image": "outfit_1"
+		"Image": "outfit_4"
 	},
 	{
 		"ID": "5",
@@ -43,6 +43,6 @@
 		"Filters": [
 			"Athletic"
 		],
-		"Image": "outfit_1"
+		"Image": "outfit_5"
 	}]
 }
