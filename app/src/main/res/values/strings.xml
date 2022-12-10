@@ -13,4 +13,10 @@
     <string name="shirt_1">Oversized Shirt Jacket</string>
     <string name="pants_1">High-Rise Black Jean Leggings</string>
     <string name="shoes_1">Chuck Taylor All-Star Classic</string>
+
+    <string name="facebook_app_id">6300265223325035</string>
+    <string name="fb_login_protocol_scheme">fb6300265223325035</string>
+    <string name="facebook_client_token">EABZAiDs6ghWsBAOgSRHpPZCj3kgDec27nx08NPisG4dq4UpMO1heZC1Pls1bZBA1jbgmWLiGZA7BDSsDU3eCaiQGB9a9UqZC9Gn3lrZBtPsDxkri86Ld4kxoQJ764RhkLIiU95lZAmLsfFGIfnYogBld4KEC6fmhnPMrVdd2FMZAaqU8J8bX4ezt5sKFVkDqeMx2MXEut1gCjWHERM6ZCtgaVd</string>
+
+
 </resources>
