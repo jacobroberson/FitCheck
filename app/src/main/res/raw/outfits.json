@@ -1,0 +1,48 @@
+{
+	"Outfits": [{
+		"ID": "1",
+		"Creator": "Hollister",
+		"Filters": [
+			"Brown",
+			"Fall",
+			"Winter"
+		],
+		"Image": "outfit_1"
+	},
+	{
+		"ID": "2",
+		"Creator": "Paige Griffith",
+		"Filters": [
+			"Brown",
+			"Fall",
+			"Winter"
+		],
+		"Image": "outfit_2"
+	},
+	{
+		"ID": "3",
+		"Creator": "Jordyn Alvera",
+		"Filters": [
+			"Formal",
+			"Fall",
+			"Winter"
+		],
+		"Image": "outfit_1"
+	},
+	{
+		"ID": "4",
+		"Creator": "Fabletics",
+		"Filters": [
+			"Athletic"
+		],
+		"Image": "outfit_1"
+	},
+	{
+		"ID": "5",
+		"Creator": "Gym Shark",
+		"Filters": [
+			"Athletic"
+		],
+		"Image": "outfit_1"
+	}]
+}
