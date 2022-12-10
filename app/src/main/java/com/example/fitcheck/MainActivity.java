@@ -115,7 +115,7 @@ public class MainActivity extends AppCompatActivity {
                 JSONArray outfitFilters = jsonChildNode.getJSONArray("Filters");
                 String outfitImage = jsonChildNode.getString("Image");
                 //JSONArray outfitItems = jsonChildNode.getJSONArray("ItemsArray");
-                newOutfitObject = new OutfitObject(outfitID, outfitCreator, outfitFilters, outfitImage);//, outfitItems);
+                newOutfitObject = new OutfitObject(outfitID, outfitCreator, outfitFilters, outfitImage);
                 jsonObject.add(newOutfitObject);
             }
             catch (JSONException e) {

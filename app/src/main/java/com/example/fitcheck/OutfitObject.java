@@ -43,19 +43,10 @@ public class OutfitObject {
         this.image = image;
     }
 
-    //public JSONArray getItems() {
-    //    return items;
-    //}
-
-    //public void setItems(JSONArray items) {
-    //    this.items = items;
-    //}
-
-    public OutfitObject(Integer id, String creator, JSONArray filters, String image) {//, JSONArray items) {
+    public OutfitObject(Integer id, String creator, JSONArray filters, String image) {
         this.id = id;
         this.creator = creator;
         this.filters = filters;
         this.image = image;
-        //this.items = items;
     }
 }
